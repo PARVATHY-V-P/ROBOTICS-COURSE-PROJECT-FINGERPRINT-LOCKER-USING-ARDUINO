@@ -1,0 +1,2 @@
+# ROBOTICS-COURSE-PROJECT-FINGERPRINT-LOCKER-USING-ARDUINO
+The project showcase features Fingerprint Door Lock, a cutting-edge biometric authentication system designed to enhance security and user experience.   By registering unique fingerprints, users establish secure identities within the system. When presented to unlock the door, the device compares the presented fingerprint with the stored data. 
