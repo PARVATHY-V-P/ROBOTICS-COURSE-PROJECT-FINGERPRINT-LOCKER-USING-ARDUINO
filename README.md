@@ -1,4 +1,5 @@
-# Fingerprint Locker System
+# ROBOTICS-COURSE-PROJECT-FINGERPRINT-LOCKER-USING-ARDUINO
+
 
 ## Description
 The Fingerprint Locker System is a cutting-edge biometric authentication system designed to enhance security and user experience. By registering unique fingerprints, users establish secure identities within the system. When presented to unlock the door, the device compares the presented fingerprint with the stored data. A successful match prompts the door to open, displaying a reassuring message, while mismatches result in an unsuccessful message. The design prioritizes functionality and user-friendliness, ensuring seamless integration into various environments.
@@ -57,7 +58,7 @@ The Fingerprint Locker System is a cutting-edge biometric authentication system 
 ### Steps
 1. Clone this repository:
     ```sh
-    git clone https://github.com/yourusername/Fingerprint_Locker_System.git
+    git clone https://github.com/yourusername/ROBOTICS-COURSE-PROJECT-FINGERPRINT-LOCKER-USING-ARDUINO.git
     ```
 2. Open the `src/enroll.ino` and `src/fingerprint_locker_arduino.ino` files in Arduino IDE.
 3. Connect your hardware as per the schematics in the `docs/schematics/wiring_diagram.png`.
